@@ -1,6 +1,6 @@
 # Food-Order-App
 
-This is a Simple Food order App built with react js and firebase
+Simple Food order App built with react js and firebase
 
 ## Features
 
